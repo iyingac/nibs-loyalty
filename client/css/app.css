@@ -431,6 +431,27 @@ a {
     margin:0 0 0 12px;
 }
 
+.profile-status1 {
+    background: url('img/profile-status1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0 0 0 12px;
+}
+
+.profile-status2 {
+    background: url('img/profile-status2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0 0 0 12px;
+}
+
+.profile-status3 {
+    background: url('img/profile-status3.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0 0 0 12px;
+}
+
 .badge {
     background-color: #805959;
 }
