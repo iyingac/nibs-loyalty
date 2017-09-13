@@ -41,7 +41,7 @@ angular.module('nibs.profile', ['nibs.s3uploader', 'nibs.config', 'nibs.status']
 
     })
 
-    .factory('Preferences', function() {
+    .factory('Preference', function() {
 
         var preferences = [
             { text: 'Dark', value: 'Dark' },
