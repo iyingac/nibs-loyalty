@@ -44,9 +44,9 @@ angular.module('nibs.profile', ['nibs.s3uploader', 'nibs.config', 'nibs.status']
     .factory('Preferences', function() {
 
         var preferences = [
-            { text: 'Woman', value: 'Dark' },
-            { text: 'Men', value: 'Milk' },
-            { text: 'Kid', value: 'White' }
+            { text: 'Dark', value: 'Dark' },
+            { text: 'Milk', value: 'Milk' },
+            { text: 'White', value: 'White' }
         ];
 
         return {
