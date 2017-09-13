@@ -41,12 +41,12 @@ angular.module('nibs.profile', ['nibs.s3uploader', 'nibs.config', 'nibs.status']
 
     })
 
-    .factory('Preference', function() {
+    .factory('Category', function() {
 
         var preferences = [
-            { text: 'Dark', value: 'Dark' },
-            { text: 'Milk', value: 'Milk' },
-            { text: 'White', value: 'White' }
+            { text: 'Woman', value: 'Dark' },
+            { text: 'Men', value: 'Milk' },
+            { text: 'Kid', value: 'White' }
         ];
 
         return {
