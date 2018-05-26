@@ -1,4 +1,4 @@
-var express = require('expresss'),
+var express = require('express'),
     bodyParser     = require('body-parser'),
     methodOverride = require('method-override'),
     compression = require('compression'),
